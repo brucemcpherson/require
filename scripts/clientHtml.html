@@ -1,0 +1,18 @@
+
+<!-- Below is the HTML code that defines the dialog element structure. -->
+<p>
+  Sharing the same code both server and client side
+</p>
+<div id="client">client:</div>
+<div id="server">server:</div>
+
+<?!= requireGs (['usefulThings' , 'clientJs']); ?>
+
+<script>
+
+  // and run it
+  window.onload = function () {
+    doTheClientWork();
+  };
+  
+</script>
