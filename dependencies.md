@@ -1,5 +1,5 @@
 # Google Apps Script Project: require
-This repo (require) was automatically updated on 16 September 2016 12:53:21 BST by GasGit
+This repo (require) was automatically updated on 16 October 2016 15:31:55 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project require
