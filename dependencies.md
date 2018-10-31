@@ -1,5 +1,5 @@
 # Google Apps Script Project: require
-This repo (require) was automatically updated on 16 October 2016 15:31:55 BST by GasGit
+This repo (require) was automatically updated on 31 October 2018 11:39:48 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project require
@@ -15,11 +15,14 @@ SidebarJavaScript| html
 usefulThings| server_js
 requireGs| server_js
 clientJs| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
